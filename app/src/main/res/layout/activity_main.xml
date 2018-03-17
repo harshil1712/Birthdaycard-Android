@@ -7,14 +7,18 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Happy Birthday, John!" />
+        android:text="Happy Birthday, John!"
+        android:textSize="36sp"
+        android:fontFamily="sans-serif-light"/>
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="From, Mark!"
+        android:fontFamily="sans-serif-light"
         android:layout_alignParentBottom="true"
-        android:layout_alignParentRight="true" />
+        android:layout_alignParentRight="true"
+        android:textSize="36sp"/>
 
     <ImageView
         android:layout_width="wrap_content"
